@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Selected Book Page should compile 1`] = `
+<ftc-selected-book-page
+  book$={[Function Store]}
+  isSelectedBookInCollection$={[Function Store]}
+  store={[Function Store]}
+>
+  
+      <ftc-book-detail
+    _nghost-c0=""
+    ng-reflect-in-collection="false"
+  >
+    
+      
+    
+    
+  
+    
+  </ftc-book-detail>
+    
+</ftc-selected-book-page>
+`;

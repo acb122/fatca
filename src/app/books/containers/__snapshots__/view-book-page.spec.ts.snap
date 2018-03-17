@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`View Book Page should compile 1`] = `
+<ftc-view-book-page
+  actionsSubscription={[Function Subscriber]}
+>
+  
+      <ftc-selected-book-page>
+    
+      
+    <ftc-book-detail
+      _nghost-c0=""
+    >
+      
+      
+      
+      
+  
+    
+    </ftc-book-detail>
+    
+    
+  </ftc-selected-book-page>
+    
+</ftc-view-book-page>
+`;
